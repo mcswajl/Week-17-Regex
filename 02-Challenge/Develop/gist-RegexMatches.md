@@ -28,7 +28,7 @@ Below the table of contents you will find detailed sections explaining my email 
 The anchors in my Regex are the ^ matches  the beginning of regex string or line and the $ matches the end of the string or line.
 *Note these are for JavaScript Browser
 
-# Quantifiers
+### Quantifiers
 I have a few quantifiers in my Regex. First is the + matches 1 or more of the preceding tokens. In this Regex the + adds everything after the + to eveything before the +.
 Next quantifiers is {2,6}, this means the text (previous token) (including the period (.)) must be between 2 and 6 total number chacters.
 *Note these are for JavaScript Browser
